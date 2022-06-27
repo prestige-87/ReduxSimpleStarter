@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyByhF9R7_yYoyxGWxVDAj0EcrH84Nykp7I';
+const API_KEY = '<your_api_key>';
 
 // Create a new component. This component should produce some HTML
 class App extends Component {
